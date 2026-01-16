@@ -2,7 +2,7 @@
   <div class="h-full flex flex-col">
     <div class="flex-1 px-12 py-8 overflow-y-auto">
       <div
-        class="max-w-3xl mx-auto bg-surface rounded-xl border border-border-subtle shadow-sm px-10 py-8"
+        class="max-w-3xl mx-auto bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm px-10 py-8"
       >
         <div id="editorjs" class="prose max-w-none"></div>
       </div>
